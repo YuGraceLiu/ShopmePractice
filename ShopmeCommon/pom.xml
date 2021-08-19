@@ -12,7 +12,7 @@
     <artifactId>ShopmeCommon</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>ShopmeCommon</name>
-    <description>Demo project for Spring Boot</description>
+    <description>common library for </description>
     <properties>
         <java.version>16</java.version>
     </properties>

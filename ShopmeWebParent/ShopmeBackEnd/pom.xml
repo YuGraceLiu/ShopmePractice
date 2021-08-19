@@ -14,14 +14,6 @@
         <java.version>16</java.version>
     </properties>
     <dependencies>
-
-        <!-- https://mvnrepository.com/artifact/org.junit/junit5-engine -->
-        <dependency>
-            <groupId>org.junit</groupId>
-            <artifactId>junit5-engine</artifactId>
-            <version>5.0.0-ALPHA</version>
-        </dependency>
-
     </dependencies>
 
     <build>
